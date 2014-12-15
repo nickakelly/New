@@ -1,0 +1,18 @@
+git add
+git commit
+git push
+git merge?
+
+github GUI sync button
+
+git --work-tree=yourSrcFolder add .
+(done from the root directory of your cloned Git repo, then git commit -m "a msg", and git push origin master)
+
+
+Questions:
+Order of creation. Branches, forks, repositories, should I create them online first then pull?
+
+
+Branches seem to be for making small edits and merging back into main file
+
+https://www.youtube.com/watch?v=1lBdlh3AGSc source tree
