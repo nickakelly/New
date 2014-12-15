@@ -16,3 +16,5 @@ Order of creation. Branches, forks, repositories, should I create them online fi
 Branches seem to be for making small edits and merging back into main file
 
 https://www.youtube.com/watch?v=1lBdlh3AGSc source tree
+
+Additional Goodness
